@@ -28,11 +28,8 @@ A declarative routing package for Flutter that uses the Router API to provide a 
 Easy To Use And Easy To Understand 
 
 
-## 🛠 Skills
+## 🛠 Programming Language
 Dart, Flutter...
-
-
-![Codex Software Solutions](https://yt3.ggpht.com/CZp7txev1cwaP4oIJwf_YYiXgHmk--uGn2j5yCSmaF7a9Tg1gEO8oDe4ZfamEygo4qSHS0iWqHM=s600-c-k-c0x00ffffff-no-rj-rp-mo)
 
 
 ## Support
