@@ -40,3 +40,7 @@ Dart, Flutter...
 - Web
 - Windows
 - Linux
+
+## Preview-GIF
+
+![GIF](https://pouch.jumpshare.com/preview/Ju--R4-HRerM6fJvB2MgGTjvu47Wnlng8TKNcajwOpisCkwfqbG-bVG_Nk82VjZ_52EBZtrfxvuYOy7rzGcttr0LmHjeH3CLLR3b1P24730)
